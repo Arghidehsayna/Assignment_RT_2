@@ -1,4 +1,4 @@
-Assignment_RT_2
+**Assignment_RT_2**
 
 The second task in the Research track entails creating a ROS package for a simulated robot in Gazebo. This package consists of three nodes:
 
